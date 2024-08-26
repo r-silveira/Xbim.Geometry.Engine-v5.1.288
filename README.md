@@ -1,3 +1,5 @@
+This is a modified version of Xbim.Geometry v5.1.288
+
 Branch | Build Status  | MyGet | NuGet
 ------ | ------- | --- | --- |
 Master | [![Build Status](https://dev.azure.com/xBIMTeam/xBIMToolkit/_apis/build/status/xBimTeam.XbimGeometry?branchName=master)](https://dev.azure.com/xBIMTeam/xBIMToolkit/_build/latest?definitionId=3&branchName=master) | ![master](https://img.shields.io/myget/xbim-master/v/Xbim.Geometry.svg) | ![](https://img.shields.io/nuget/v/Xbim.Geometry.svg)
